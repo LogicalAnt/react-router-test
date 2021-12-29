@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start --history-api-fallback",
-    "build": "react-scripts build",
+    "build": "react-scripts build --history-api-fallback",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
